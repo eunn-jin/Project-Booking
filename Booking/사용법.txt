@@ -1,0 +1,13 @@
+Book!ng 사용법
+
+* 로그인 가능한 ID, PW는 LockerReservationServer폴더의 IDList.txt에 저장되어 있다.
+* ','앞에 있는 것이 ID 이고, ','뒤에 있는 것이 PW이다.
+
+* 현재 사물함 예약 상태는 LockerReservationServer폴더의 result.txt에 저장되어있다.
+* ','앞에 있는 것은 예약된 사물함의 번호이고, ','뒤에 있는 것은 예약한 사람의 ID이다.
+* 사물함 번호 순서대로 나열되어있다.
+
+1. LockerReservationServer를 실행한다.
+2. LockerReservation을 실행한다.
+3. LockerReservation에서 IDList.txt에 있던 허락된 아이디로 로그인한다.
+4. 사물함 예약을 진행한다.
